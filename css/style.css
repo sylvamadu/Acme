@@ -1,0 +1,90 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+.brand-logo{
+  border: 2px solid black;
+  margin: 2vmin;
+  padding: 2vmin 6vmin;
+}
+
+.brand-logo:link, :visited{
+  color: black;
+  font: bold;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  letter-spacing: 2px;
+}
+.linkz:link{
+  color: black;
+}
+.active{
+  color: whitesmoke;
+  background: black;
+}
+#logo-container{
+  color: black;
+  padding: 0.5vmin 3vmin;
+}
+.nav-color{
+  background: white;
+  height: 18vmin;
+}
+.img-bg{
+  width: 100%;
+}
+
+.img-block{
+  margin-top: 5vmin;
+}
+
+.top{
+  text-align: center;
+}
+.block1, .block2{
+  margin-top: 10vmin;
+  margin-bottom: 10vmin;
+}
+
+.packed{
+  text-align: left;
+}
+
+.card-image{
+  width: 100%;
+}
+.footer{
+  background:#19171a;
+}
+.foot{
+  background: black;
+}
+
+/* contact form */
+.button{
+  background-color: maroon;
+  border-radius: 1vmin;
+  color: white;
+  padding: 2vmin 3vmin;
+  margin-top: 4vmin;
+  margin-bottom: 4vmin;
+}
+
+form{
+  color: maroon;
+}
+form>p{
+  margin-top: 1vmin;
+}
+input{
+  border: maroon;
+}
