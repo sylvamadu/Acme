@@ -31,6 +31,9 @@
   color: whitesmoke;
   background: black;
 }
+. material-icons{
+  color: black;
+}
 #logo-container{
   color: black;
   padding: 0.5vmin 3vmin;
